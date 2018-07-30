@@ -123,6 +123,21 @@ body {
     padding-top: 130px;
     min-height: calc(100vh - 70px);
   }
+
+/* main index */
+
+.main-sectionindex {
+
+  width: 100%;
+  max-width: 960px;
+  padding: 30px;
+  margin: 0 0 40px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+
+
   
   .main-section {
     float: left;
@@ -198,7 +213,7 @@ body {
   input[type=email],
   textarea {
     height: 35px;
-    padding: 0 10px;
+    padding: 20px 10px;
     font-size: 14px;
     border: 1px solid #ddd;
   }
@@ -208,7 +223,7 @@ body {
   }
   
   input[type=submit] {
-    padding: 10px 30px;
+    padding: 20px 30px;
     font-size: 18px;
     color: #fff;
     cursor: pointer;
@@ -216,3 +231,18 @@ body {
     border: 0 none;
   }
   
+  #navbarcontacthtml {
+    padding: 20px 30px;
+    margin-top: 0px;
+    margin-bottom: -120px; 
+  }
+
+  #navbarportfoliohtml {
+    padding: 20px 30px;
+    margin-top: 0px;
+    margin-bottom:-20px;
+  }
+
+  .card-footer {
+    display: inline;
+  }
