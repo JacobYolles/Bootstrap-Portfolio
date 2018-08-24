@@ -43,7 +43,7 @@ body {
   h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #4aaaa5;
+    color: #4aaaa5;;
   }
   
   h1 {
@@ -150,7 +150,7 @@ body {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: silver;
+  background: aquamarine;
   border: 1px solid #ddd;
 }
 
@@ -285,6 +285,6 @@ body {
 
   
    .sidebar {
-    background: red;
+    background: aquamarine;
     padding: 20px;
   }
