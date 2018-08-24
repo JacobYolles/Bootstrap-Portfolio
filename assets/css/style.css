@@ -288,3 +288,14 @@ body {
     background: aquamarine;
     padding: 20px;
   }
+
+  
+  .main-section-contact {
+    float: left;
+    width: 100%;
+    max-width: 960px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: aquamarine;
+    border: 1px solid #ddd;
+  }
